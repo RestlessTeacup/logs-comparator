@@ -93,7 +93,7 @@ python compare_first.py example1.txt example2.txt
 
 ## Совместимость
 
-- Windows: Скрипт работает на Windows 10 и выше (поддержка ANSI-кодов).
+- Windows: Скрипт работает на Windows 10 и выше.
 - Linux: Скрипт работает на всех современных дистрибутивах.
 
 ## Ограничения
